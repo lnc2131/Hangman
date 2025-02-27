@@ -116,7 +116,7 @@ fun HangmanGame(modifier: Modifier = Modifier) {
 
         when (hintCount) {
             0 -> {
-                hintMessage = "Baseball related word"
+                hintMessage = "My name Is"
                 hintCount++
             }
             1 -> {
